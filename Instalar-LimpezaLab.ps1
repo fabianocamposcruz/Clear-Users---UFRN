@@ -2,7 +2,7 @@
 .SYNOPSIS
 Instala scripts de limpeza automática para laboratórios UFRN.
 Autor: Fabiano Campos da Cruz - Técnico de TI - CT
-Versão: 1.0 - 19/11/2025
+Versão: 1.1 - 19/11/2025
 #>
 
 Write-Host "=== Instalador de Limpeza de Perfis e Pastas ===" -ForegroundColor Cyan
