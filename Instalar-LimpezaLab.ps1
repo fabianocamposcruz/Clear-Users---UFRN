@@ -5,7 +5,7 @@ Autor: Fabiano Campos da Cruz - Técnico de TI - CT
 Versão: 1.1 - 19/11/2025
 #>
 
-Write-Host "=== Instalador de Limpeza de Perfis e Pastas ===" -ForegroundColor Cyan
+Write-Host "=== INSTALADOR DE LIMPEZA DE PERFIS E PASTAS ===" -ForegroundColor Cyan
 
 # Caminho dos scripts
 $dir = "C:\Scripts"
